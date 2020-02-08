@@ -1,9 +1,5 @@
-let p, v;
-
 function setup() {
-  createCanvas(720, 400);
-p=0; 
-  v=5
+  // put setup code here
 }
 
 function draw() {
@@ -18,5 +14,4 @@ function draw() {
  if (p<0){
  v=-v;
 }
-  
 }
